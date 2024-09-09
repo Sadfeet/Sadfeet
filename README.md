@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Sadfeet
+- 👋 Hi, I’m @Sadfeet AKA Ziyad Hussain
 - 👀 I’m interested in .. Reverse engineering , system desgin , database , Ai.
-- 🌱 I’m currently learning ...cpp,javascript or golang , python, may be lua in future
-- 💞️ I’m looking to collaborate on ...nothing for now
-- 📫 How to reach me ...you can contact me when i give here
-- 😄 Pronouns: ...He/HIs
-- ⚡ Fun fact: ...I have NI (natural intelligence) more powerfull than AI.
+- 🌱 I’m currently learning ...cpp,javascript or golang , python. Maybe Rust in Future
+- 📫 How to reach me ...mewnewsupercell@gmail.com
+- 😄 Pronouns: ...He/His
+- ⚡ Fun fact: ...I Study at Amity Uni Noida
 
 <!---
 Sadfeet/Sadfeet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
